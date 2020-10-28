@@ -1,0 +1,2 @@
+
+@extends('templet.about1')
